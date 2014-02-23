@@ -1,3 +1,6 @@
 == README
 
 This project is a group project from universtiry of sheffield, designing a new PhD progression monitoring system.
+
+Timothy Hermida
+Josh Brass
